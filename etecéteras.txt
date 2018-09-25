@@ -1,3 +1,6 @@
 git clone https://github.com/kayomj/Git-aulinha-bbk.git --> traz o repo para o PC
 git add --> Adiciona o que foi alterado na repo local
 git status --> Mostra o status né meu
+git commit --> Commita o rolê
+git pull --> atualiza a repo local
+git push --> manda pra repo nuvem
