@@ -4,3 +4,4 @@ git status --> Mostra o status né meu
 git commit --> Commita o rolê
 git pull --> atualiza a repo local
 git push --> manda pra repo nuvem
+git checkout -b --> cria uma nova branch
